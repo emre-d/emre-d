@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emre-d
-- 👀 I’m interested in data science
+- 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
